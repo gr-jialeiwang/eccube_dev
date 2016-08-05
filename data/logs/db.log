@@ -1,0 +1,87 @@
+2015/10/01 15:30:51 [/ectest/html/index.php] [execute end 560cd2f4b67cb#3]
+SQL: PREPARE mdb2_statement_mysql_3bab547ebc72976e07b9a0842598c65bad3d692e2 FROM 'SELECT sess_data FROM dtb_session WHERE sess_id = ?   '
+PlaceHolder: array (
+  0 => '0eb7c3b8ad7f9145a0b04911ae4232e3',
+)
+execution time: 18.21 sec
+ from 122.212.39.18
+2015/10/01 15:31:04 [/ectest/html/index.php] [execute end 560cd2f4b67cb#4]
+SQL: PREPARE mdb2_statement_mysql_44a817463914d3073e7d2bec0a6a9244ba3708b92 FROM 'SELECT * FROM dtb_plugin WHERE enable = 1  ORDER BY priority DESC, plugin_id ASC '
+PlaceHolder: array (
+)
+execution time: 12.61 sec
+ from 122.212.39.18
+2015/10/01 15:31:23 [/ectest/html/index.php] [execute end 560cd2f4b67cb#5]
+SQL: PREPARE mdb2_statement_mysql_53e4afb56fa47be7c9de6b3206a052188e7005630 FROM 'SELECT * FROM dtb_pagelayout WHERE page_id <> ? AND device_type_id = ? AND url = ?  ORDER BY page_id '
+PlaceHolder: array (
+  0 => 0,
+  1 => 2,
+  2 => 'index.php',
+)
+execution time: 6.83 sec
+ from 122.212.39.18
+2015/10/13 20:09:42 [/ectest/html/shopping/confirm.php] [execute end 561ce671b1c15#29]
+SQL: PREPARE mdb2_statement_mysql_291f12ffbb2f93ca94aaa0be26f1def53bf24ecc8a FROM 'UPDATE dtb_order_temp SET order_temp_id= ?, customer_id= ?, message= ?, order_name01= ?, order_name02= ?, order_kana01= ?, order_kana02= ?, order_company_name= ?, order_email= ?, order_tel01= ?, order_tel02= ?, order_tel03= ?, order_fax01= ?, order_fax02= ?, order_fax03= ?, order_zip01= ?, order_zip02= ?, order_zipcode= ?, order_country_id= ?, order_pref= ?, order_addr01= ?, order_addr02= ?, order_sex= ?, order_birth= ?, order_job= ?, subtotal= ?, discount= ?, deliv_id= ?, deliv_fee= ?, charge= ?, use_point= ?, add_point= ?, birth_point= ?, tax= ?, total= ?, payment_total= ?, payment_id= ?, payment_method= ?, note= ?, mail_flag= ?, status= ?, deliv_check= ?, point_check= ?, create_date= ?, update_date= CURRENT_TIMESTAMP, device_type_id= ?, del_flg= ?, order_id= ?, memo01= ?, memo02= ?, memo03= ?, memo04= ?, memo05= ?, memo06= ?, memo07= ?, memo08= ?, memo09= ?, memo10= ?, session= ? WHERE order_temp_id = ?'
+PlaceHolder: array (
+  0 => '561ce6605e8fdK5qRrEM3',
+  1 => '1',
+  2 => NULL,
+  3 => 'テスト',
+  4 => '太郎',
+  5 => 'テスト',
+  6 => 'タロウ',
+  7 => '',
+  8 => 'koji_ishikawa@yappa.co.jp',
+  9 => '03',
+  10 => '3407',
+  11 => '8811',
+  12 => '',
+  13 => '',
+  14 => '',
+  15 => '150',
+  16 => '0002',
+  17 => '',
+  18 => '392',
+  19 => '13',
+  20 => '渋谷区渋谷',
+  21 => '2-1-5',
+  22 => '1',
+  23 => '1986-08-06 00:00:00',
+  24 => '3',
+  25 => 1620,
+  26 => '0',
+  27 => '2',
+  28 => 0,
+  29 => '0',
+  30 => '0',
+  31 => 0,
+  32 => '0',
+  33 => 120,
+  34 => 1620,
+  35 => 1620,
+  36 => '3',
+  37 => '銀行振込',
+  38 => NULL,
+  39 => NULL,
+  40 => NULL,
+  41 => NULL,
+  42 => '2',
+  43 => '2015-10-13 20:09:22',
+  44 => 10,
+  45 => '0',
+  46 => '5',
+  47 => NULL,
+  48 => NULL,
+  49 => NULL,
+  50 => NULL,
+  51 => NULL,
+  52 => NULL,
+  53 => NULL,
+  54 => NULL,
+  55 => NULL,
+  56 => NULL,
+  57 => 'a:16:{s:4:"cart";a:2:{i:1;a:3:{i:1;a:11:{s:2:"id";s:2:"25";s:8:"quantity";i:1;s:7:"cart_no";i:1;s:13:"productsClass";a:15:{s:10:"product_id";s:1:"9";s:5:"stock";s:2:"28";s:15:"stock_unlimited";s:1:"0";s:10:"sale_limit";N;s:7:"price02";s:3:"657";s:10:"point_rate";s:1:"0";s:12:"product_code";s:10:"goods-0002";s:16:"product_class_id";s:2:"25";s:19:"classcategory_name1";N;s:11:"class_name1";N;s:19:"classcategory_name2";N;s:11:"class_name2";N;s:4:"name";s:29:"Relation -リレイション-";s:15:"main_list_image";s:26:"10051500_56121209b3de0.jpg";s:10:"main_image";s:26:"10051500_5612120e502ea.jpg";}s:5:"price";s:3:"657";s:10:"point_rate";s:1:"0";s:12:"price_inctax";d:710;s:12:"total_inctax";d:710;s:8:"tax_rate";s:1:"8";s:8:"tax_rule";s:1:"1";s:10:"tax_adjust";s:1:"0";}s:15:"cancel_purchase";b:0;i:0;a:4:{s:5:"price";s:0:"";s:8:"quantity";s:0:"";s:10:"point_rate";s:0:"";s:2:"id";a:1:{i:0;s:0:"";}}}i:2;a:3:{i:1;a:11:{s:2:"id";s:2:"54";s:8:"quantity";s:1:"1";s:7:"cart_no";i:1;s:13:"productsClass";a:15:{s:10:"product_id";s:2:"18";s:5:"stock";N;s:15:"stock_unlimited";s:1:"1";s:10:"sale_limit";N;s:7:"price02";s:4:"1500";s:10:"point_rate";s:1:"0";s:12:"product_code";s:13:"download-0001";s:16:"product_class_id";s:2:"54";s:19:"classcategory_name1";N;s:11:"class_name1";N;s:19:"classcategory_name2";N;s:11:"class_name2";N;s:4:"name";s:14:"2015年2月号";s:15:"main_list_image";s:26:"10132007_561ce5f03d984.png";s:10:"main_image";s:26:"10132007_561ce5f612ed7.png";}s:5:"price";s:4:"1500";s:10:"point_rate";s:1:"0";s:12:"price_inctax";d:1620;s:12:"total_inctax";d:1620;s:8:"tax_rate";s:1:"8";s:8:"tax_rule";s:1:"1";s:10:"tax_adjust";s:1:"0";}s:15:"cancel_purchase";b:0;i:0;a:4:{s:5:"price";s:0:"";s:8:"quantity";s:0:"";s:10:"point_rate";s:0:"";s:2:"id";a:1:{i:0;s:0:"";}}}}s:8:"prev_url";s:19:"/ectest/html/cart/?";s:4:"site";a:5:{s:18:"pre_regist_success";b:0;s:14:"regist_success";b:0;s:8:"pre_page";s:33:"/ectest/html/shopping/confirm.php";s:8:"now_page";s:33:"/ectest/html/shopping/confirm.php";s:6:"uniqid";s:21:"561ce6605e8fdK5qRrEM3";}s:13:"cart_prev_url";s:65:"http://www.sbadi.jp/ectest/html/products/detail.php?product_id=18";s:7:"cartKey";s:1:"2";s:8:"customer";a:41:{s:11:"customer_id";s:1:"1";s:6:"name01";s:9:"テスト";s:6:"name02";s:6:"太郎";s:6:"kana01";s:9:"テスト";s:6:"kana02";s:9:"タロウ";s:12:"company_name";N;s:5:"zip01";s:3:"150";s:5:"zip02";s:4:"0002";s:7:"zipcode";N;s:10:"country_id";s:3:"392";s:4:"pref";s:2:"13";s:6:"addr01";s:15:"渋谷区渋谷";s:6:"addr02";s:5:"2-1-5";s:5:"email";s:25:"koji_ishikawa@yappa.co.jp";s:12:"email_mobile";N;s:5:"tel01";s:2:"03";s:5:"tel02";s:4:"3407";s:5:"tel03";s:4:"8811";s:5:"fax01";N;s:5:"fax02";N;s:5:"fax03";N;s:3:"sex";s:1:"1";s:3:"job";s:1:"3";s:5:"birth";s:19:"1986-08-06 00:00:00";s:8:"password";s:64:"57d7c8305019d240b82ec91c5f2f1229368da96066544940e6e85bdae2c5a52e";s:8:"reminder";s:1:"1";s:15:"reminder_answer";s:64:"3275d6db57d690bb82fe1042d2a8efe2d0dcd40b432ef3ccfcf5eb30a9b9a4e4";s:4:"salt";s:10:"slouchefra";s:10:"secret_key";s:22:"r55e41a91371519ZQag6D4";s:14:"first_buy_date";s:19:"2015-10-06 19:38:49";s:13:"last_buy_date";s:19:"2015-10-13 19:49:50";s:9:"buy_times";s:1:"3";s:9:"buy_total";s:5:"15080";s:5:"point";s:1:"0";s:4:"note";N;s:6:"status";s:1:"2";s:11:"create_date";s:19:"2015-08-31 18:12:49";s:11:"update_date";s:19:"2015-09-09 11:53:01";s:7:"del_flg";s:1:"0";s:15:"mobile_phone_id";N;s:12:"mailmaga_flg";s:1:"1";}s:4:"cert";s:8:"7WDhcBTF";s:9:"member_id";s:1:"2";s:8:"login_id";s:5:"admin";s:9:"authority";s:1:"0";s:10:"login_name";s:9:"管理者";s:6:"uniqid";s:21:"561cdf900859fNUXAtTfh";s:10:"last_login";s:19:"2015-10-13 19:40:16";s:13:"transactionid";s:40:"8c968ab51460c113bc3914b56e446c844b03b6c8";s:30:"savecart_561ce6605e8fdK5qRrEM3";a:3:{i:1;a:11:{s:2:"id";s:2:"54";s:8:"quantity";s:1:"1";s:7:"cart_no";i:1;s:13:"productsClass";a:15:{s:10:"product_id";s:2:"18";s:5:"stock";N;s:15:"stock_unlimited";s:1:"1";s:10:"sale_limit";N;s:7:"price02";s:4:"1500";s:10:"point_rate";s:1:"0";s:12:"product_code";s:13:"download-0001";s:16:"product_class_id";s:2:"54";s:19:"classcategory_name1";N;s:11:"class_name1";N;s:19:"classcategory_name2";N;s:11:"class_name2";N;s:4:"name";s:14:"2015年2月号";s:15:"main_list_image";s:26:"10132007_561ce5f03d984.png";s:10:"main_image";s:26:"10132007_561ce5f612ed7.png";}s:5:"price";s:4:"1500";s:10:"point_rate";s:1:"0";s:12:"price_inctax";d:1620;s:12:"total_inctax";d:1620;s:8:"tax_rate";s:1:"8";s:8:"tax_rule";s:1:"1";s:10:"tax_adjust";s:1:"0";}s:15:"cancel_purchase";b:0;i:0;a:4:{s:5:"price";s:0:"";s:8:"quantity";s:0:"";s:10:"point_rate";s:0:"";s:2:"id";a:1:{i:0;s:0:"";}}}s:8:"order_id";s:1:"5";}',
+  58 => '561ce6605e8fdK5qRrEM3',
+)
+execution time: 2.14 sec
+ from 122.212.39.18

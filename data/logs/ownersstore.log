@@ -1,0 +1,62 @@
+2015/10/14 10:34:45 [/ectest/html/upgrade/index.php] ##### products_list start ##### from 122.212.39.18
+2015/10/14 10:34:45 [/ectest/html/upgrade/index.php] * admin auth start from 122.212.39.18
+2015/10/14 10:34:45 [/ectest/html/upgrade/index.php] * public key check start from 122.212.39.18
+2015/10/14 10:34:45 [/ectest/html/upgrade/index.php] * http request start from 122.212.39.18
+2015/10/14 10:34:45 [/ectest/html/upgrade/index.php] * http request check start from 122.212.39.18
+2015/10/14 10:34:45 [/ectest/html/upgrade/index.php] * http response check start from 122.212.39.18
+2015/10/14 10:34:45 [/ectest/html/upgrade/index.php] * error! code:2003 / debug:O:12:"HTTP_Request":26:{s:4:"_url";O:7:"Net_URL":13:{s:7:"options";a:1:{s:17:"encode_query_keys";b:0;}s:3:"url";s:71:"http://www.sbadi.jp/ectest/html/mdl_telecom_converter/upgrade/index.php";s:8:"protocol";s:4:"http";s:8:"username";N;s:8:"password";N;s:4:"host";s:12:"www.sbadi.jp";s:4:"port";i:80;s:4:"path";s:52:"/ectest/html/mdl_telecom_converter/upgrade/index.php";s:11:"querystring";a:0:{}s:6:"anchor";s:0:"";s:11:"useBrackets";b:1;s:4:"user";s:0:"";s:4:"pass";s:0:"";}s:7:"_method";s:4:"POST";s:5:"_http";s:3:"1.1";s:15:"_requestHeaders";a:5:{s:10:"user-agent";s:48:"PEAR HTTP_Request class ( http://pear.php.net/ )";s:10:"connection";s:5:"close";s:15:"accept-encoding";s:4:"gzip";s:4:"host";s:12:"www.sbadi.jp";s:12:"content-type";s:33:"application/x-www-form-urlencoded";}s:5:"_user";N;s:5:"_pass";N;s:5:"_sock";O:10:"Net_Socket":14:{s:2:"fp";N;s:8:"blocking";b:1;s:10:"persistent";b:0;s:4:"addr";s:14:"211.13.196.133";s:4:"port";i:80;s:7:"timeout";b:0;s:10:"lineLength";i:2048;s:7:"newline";s:2:"
+";s:6:"_debug";b:0;s:19:"_default_error_mode";N;s:22:"_default_error_options";N;s:22:"_default_error_handler";s:0:"";s:12:"_error_class";s:10:"PEAR_Error";s:16:"_expected_errors";a:0:{}}s:11:"_proxy_host";N;s:11:"_proxy_port";N;s:11:"_proxy_user";N;s:11:"_proxy_pass";N;s:9:"_postData";a:5:{s:4:"mode";s:13:"products_list";s:10:"eccube_url";s:44:"http%3A%2F%2Fwww.sbadi.jp%2Fectest%2Fhtml%2F";s:10:"public_key";s:40:"8cbeb9594ad7de339bbc8ccab117d56cd9a45217";s:8:"sha1_key";s:40:"c46b856425494d3943bb129649604115d8279e79";s:3:"ver";s:6:"2.13.3";}s:5:"_body";N;s:15:"_bodyDisallowed";a:1:{i:0;s:5:"TRACE";}s:13:"_bodyRequired";a:2:{i:0;s:4:"POST";i:1;s:3:"PUT";}s:10:"_postFiles";a:0:{}s:8:"_timeout";N;s:9:"_response";O:13:"HTTP_Response":10:{s:5:"_sock";R:27;s:9:"_protocol";s:8:"HTTP/1.1";s:5:"_code";i:401;s:7:"_reason";s:22:"Authorization Required";s:8:"_headers";a:6:{s:4:"date";s:29:"Wed, 14 Oct 2015 01:34:45 GMT";s:6:"server";s:6:"Apache";s:16:"www-authenticate";s:36:"Basic realm="Input ID and Password."";s:14:"content-length";s:3:"401";s:10:"connection";s:5:"close";s:12:"content-type";s:29:"text/html; charset=iso-8859-1";}s:8:"_cookies";N;s:5:"_body";s:401:"<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>401 Authorization Required</title>
+</head><body>
+<h1>Authorization Required</h1>
+<p>This server could not verify that you
+are authorized to access the document
+requested.  Either you supplied the wrong
+credentials (e.g., bad password), or your
+browser doesn't understand how to supply
+the credentials required.</p>
+</body></html>
+";s:12:"_chunkLength";i:0;s:10:"_listeners";a:0:{}s:7:"_toRead";i:0;}s:15:"_allowRedirects";b:0;s:13:"_maxRedirects";i:3;s:10:"_redirects";i:0;s:12:"_useBrackets";b:1;s:10:"_listeners";R:74;s:9:"_saveBody";b:1;s:12:"_readTimeout";N;s:14:"_socketOptions";N;} from 122.212.39.18
+2015/10/14 10:34:45 [/ectest/html/upgrade/index.php] ##### end ##### from 122.212.39.18
+2015/10/14 10:35:11 [/ectest/html/upgrade/index.php] ##### products_list start ##### from 122.212.39.18
+2015/10/14 10:35:11 [/ectest/html/upgrade/index.php] * admin auth start from 122.212.39.18
+2015/10/14 10:35:11 [/ectest/html/upgrade/index.php] * public key check start from 122.212.39.18
+2015/10/14 10:35:11 [/ectest/html/upgrade/index.php] * http request start from 122.212.39.18
+2015/10/14 10:35:11 [/ectest/html/upgrade/index.php] * http request check start from 122.212.39.18
+2015/10/14 10:35:11 [/ectest/html/upgrade/index.php] * http response check start from 122.212.39.18
+2015/10/14 10:35:11 [/ectest/html/upgrade/index.php] * json deta check start from 122.212.39.18
+2015/10/14 10:35:11 [/ectest/html/upgrade/index.php] * json status check start from 122.212.39.18
+2015/10/14 10:35:11 [/ectest/html/upgrade/index.php] * get products list ok from 122.212.39.18
+2015/10/14 10:35:12 [/ectest/html/upgrade/index.php] ##### end ##### from 122.212.39.18
+2015/10/14 11:02:27 [/ectest/html/upgrade/index.php] ##### products_list start ##### from 122.212.39.18
+2015/10/14 11:02:27 [/ectest/html/upgrade/index.php] * admin auth start from 122.212.39.18
+2015/10/14 11:02:27 [/ectest/html/upgrade/index.php] * public key check start from 122.212.39.18
+2015/10/14 11:02:27 [/ectest/html/upgrade/index.php] * http request start from 122.212.39.18
+2015/10/14 11:02:27 [/ectest/html/upgrade/index.php] * http request check start from 122.212.39.18
+2015/10/14 11:02:27 [/ectest/html/upgrade/index.php] * http response check start from 122.212.39.18
+2015/10/14 11:02:28 [/ectest/html/upgrade/index.php] * error! code:2003 / debug:O:12:"HTTP_Request":26:{s:4:"_url";O:7:"Net_URL":13:{s:7:"options";a:1:{s:17:"encode_query_keys";b:0;}s:3:"url";s:71:"http://www.sbadi.jp/ectest/html/mdl_telecom_converter/upgrade/index.php";s:8:"protocol";s:4:"http";s:8:"username";N;s:8:"password";N;s:4:"host";s:12:"www.sbadi.jp";s:4:"port";i:80;s:4:"path";s:52:"/ectest/html/mdl_telecom_converter/upgrade/index.php";s:11:"querystring";a:0:{}s:6:"anchor";s:0:"";s:11:"useBrackets";b:1;s:4:"user";s:0:"";s:4:"pass";s:0:"";}s:7:"_method";s:4:"POST";s:5:"_http";s:3:"1.1";s:15:"_requestHeaders";a:5:{s:10:"user-agent";s:48:"PEAR HTTP_Request class ( http://pear.php.net/ )";s:10:"connection";s:5:"close";s:15:"accept-encoding";s:4:"gzip";s:4:"host";s:12:"www.sbadi.jp";s:12:"content-type";s:33:"application/x-www-form-urlencoded";}s:5:"_user";N;s:5:"_pass";N;s:5:"_sock";O:10:"Net_Socket":14:{s:2:"fp";N;s:8:"blocking";b:1;s:10:"persistent";b:0;s:4:"addr";s:14:"211.13.196.133";s:4:"port";i:80;s:7:"timeout";b:0;s:10:"lineLength";i:2048;s:7:"newline";s:2:"
+";s:6:"_debug";b:0;s:19:"_default_error_mode";N;s:22:"_default_error_options";N;s:22:"_default_error_handler";s:0:"";s:12:"_error_class";s:10:"PEAR_Error";s:16:"_expected_errors";a:0:{}}s:11:"_proxy_host";N;s:11:"_proxy_port";N;s:11:"_proxy_user";N;s:11:"_proxy_pass";N;s:9:"_postData";a:5:{s:4:"mode";s:13:"products_list";s:10:"eccube_url";s:44:"http%3A%2F%2Fwww.sbadi.jp%2Fectest%2Fhtml%2F";s:10:"public_key";s:40:"44016315960d084120449a203458e729a9d406ca";s:8:"sha1_key";s:40:"66a86b05eca06ebb83fbb16d9ef13f160575624c";s:3:"ver";s:6:"2.13.3";}s:5:"_body";N;s:15:"_bodyDisallowed";a:1:{i:0;s:5:"TRACE";}s:13:"_bodyRequired";a:2:{i:0;s:4:"POST";i:1;s:3:"PUT";}s:10:"_postFiles";a:0:{}s:8:"_timeout";N;s:9:"_response";O:13:"HTTP_Response":10:{s:5:"_sock";R:27;s:9:"_protocol";s:8:"HTTP/1.1";s:5:"_code";i:401;s:7:"_reason";s:22:"Authorization Required";s:8:"_headers";a:6:{s:4:"date";s:29:"Wed, 14 Oct 2015 02:02:27 GMT";s:6:"server";s:6:"Apache";s:16:"www-authenticate";s:36:"Basic realm="Input ID and Password."";s:14:"content-length";s:3:"401";s:10:"connection";s:5:"close";s:12:"content-type";s:29:"text/html; charset=iso-8859-1";}s:8:"_cookies";N;s:5:"_body";s:401:"<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>401 Authorization Required</title>
+</head><body>
+<h1>Authorization Required</h1>
+<p>This server could not verify that you
+are authorized to access the document
+requested.  Either you supplied the wrong
+credentials (e.g., bad password), or your
+browser doesn't understand how to supply
+the credentials required.</p>
+</body></html>
+";s:12:"_chunkLength";i:0;s:10:"_listeners";a:0:{}s:7:"_toRead";i:0;}s:15:"_allowRedirects";b:0;s:13:"_maxRedirects";i:3;s:10:"_redirects";i:0;s:12:"_useBrackets";b:1;s:10:"_listeners";R:74;s:9:"_saveBody";b:1;s:12:"_readTimeout";N;s:14:"_socketOptions";N;} from 122.212.39.18
+2015/10/14 11:02:28 [/ectest/html/upgrade/index.php] ##### end ##### from 122.212.39.18
+2015/10/14 11:02:50 [/ectest/html/upgrade/index.php] ##### products_list start ##### from 122.212.39.18
+2015/10/14 11:02:50 [/ectest/html/upgrade/index.php] * admin auth start from 122.212.39.18
+2015/10/14 11:02:50 [/ectest/html/upgrade/index.php] * public key check start from 122.212.39.18
+2015/10/14 11:02:50 [/ectest/html/upgrade/index.php] * http request start from 122.212.39.18
+2015/10/14 11:02:50 [/ectest/html/upgrade/index.php] * http request check start from 122.212.39.18
+2015/10/14 11:02:50 [/ectest/html/upgrade/index.php] * http response check start from 122.212.39.18
+2015/10/14 11:02:50 [/ectest/html/upgrade/index.php] * json deta check start from 122.212.39.18
+2015/10/14 11:02:50 [/ectest/html/upgrade/index.php] * json status check start from 122.212.39.18
+2015/10/14 11:02:50 [/ectest/html/upgrade/index.php] * get products list ok from 122.212.39.18
+2015/10/14 11:02:50 [/ectest/html/upgrade/index.php] ##### end ##### from 122.212.39.18

@@ -1,0 +1,706 @@
+2015/08/31 18:31:56 [/ectest/html/index.php] PAGE_DISPLAY_TIME_LOG [2.14sec] from 122.212.39.18
+2015/08/31 18:39:51 [/ectest/html/products/detail.php] access : user=admin auth=0 sid=f2eb5d83f5bc9e0ee9c925a66dddc15c from 122.212.39.18
+2015/09/01 14:57:02 [/ectest/html/products/detail.php] PAGE_DISPLAY_TIME_LOG [2.17sec] from 122.212.39.18
+2015/09/01 15:33:29 [/ectest/html/products/detail.php] PAGE_DISPLAY_TIME_LOG [2.22sec] from 122.212.39.18
+2015/09/01 16:09:48 [/ectest/html/shopping/confirm.php] order complete. order_id=1 from 122.212.39.18
+2015/09/01 16:42:47 [/ectest/html/index.php] PAGE_DISPLAY_TIME_LOG [3.04sec] from 122.212.39.18
+2015/09/01 16:43:32 [/ectest/html/index.php] PAGE_DISPLAY_TIME_LOG [3.76sec] from 122.212.39.18
+2015/09/01 16:43:41 [/ectest/html/products/list.php] PAGE_DISPLAY_TIME_LOG [3.81sec] from 122.212.39.18
+2015/09/09 11:51:56 [/ectest/html/mypage/history.php] PAGE_DISPLAY_TIME_LOG [2.39sec] from 122.212.39.18
+2015/09/09 17:35:29 [/ectest/html/products/list.php] PAGE_DISPLAY_TIME_LOG [2.29sec] from 122.212.39.18
+2015/09/09 18:06:16 [/ectest/html/products/detail.php] PAGE_DISPLAY_TIME_LOG [2.06sec] from 122.212.39.18
+2015/09/10 11:34:47 [/ectest/html/products/list.php] PAGE_DISPLAY_TIME_LOG [3.38sec] from 122.212.39.18
+2015/09/14 11:35:54 [/ectest/html/products/detail.php] PAGE_DISPLAY_TIME_LOG [2.59sec] from 49.98.155.137
+2015/09/29 18:39:39 [/ectest/html/index.php] PAGE_DISPLAY_TIME_LOG [3.02sec] from 122.212.39.18
+2015/09/29 20:05:10 [/ectest/html/cart/index.php] PAGE_DISPLAY_TIME_LOG [2.09sec] from 122.212.39.18
+2015/09/30 17:59:50 [/ectest/html/index.php] PAGE_DISPLAY_TIME_LOG [3.05sec] from 122.212.39.18
+2015/10/01 15:31:42 [/ectest/html/index.php] PAGE_DISPLAY_TIME_LOG [26.12sec] from 122.212.39.18
+2015/10/01 15:35:43 [/ectest/html/index.php] PAGE_DISPLAY_TIME_LOG [3.29sec] from 122.212.39.18
+2015/10/01 17:57:55 [/ectest/html/shopping/payment.php] PAGE_DISPLAY_TIME_LOG [2.50sec] from 122.212.39.18
+2015/10/01 17:58:07 [/ectest/html/shopping/index.php] PAGE_DISPLAY_TIME_LOG [2.09sec] from 122.212.39.18
+2015/10/01 18:10:13 [/ectest/html/shopping/index.php] PAGE_DISPLAY_TIME_LOG [2.27sec] from 122.212.39.18
+2015/10/02 17:58:22 [/ectest/html/index.php] PAGE_DISPLAY_TIME_LOG [2.11sec] from 122.212.39.18
+2015/10/02 18:30:17 [/ectest/html/products/list.php] PAGE_DISPLAY_TIME_LOG [2.16sec] from 122.212.39.18
+2015/10/05 17:45:16 [/ectest/html/products/list.php] PAGE_DISPLAY_TIME_LOG [2.10sec] from 122.212.39.18
+2015/10/05 18:40:20 [/ectest/html/products/detail.php] PAGE_DISPLAY_TIME_LOG [2.06sec] from 122.212.39.18
+2015/10/05 18:57:08 [/ectest/html/products/detail.php] PAGE_DISPLAY_TIME_LOG [2.33sec] from 122.212.39.18
+2015/10/05 18:59:52 [/ectest/html/products/list.php] PAGE_DISPLAY_TIME_LOG [3.63sec] from 122.212.39.18
+2015/10/05 19:04:28 [/ectest/html/index.php] PAGE_DISPLAY_TIME_LOG [2.59sec] from 122.212.39.18
+2015/10/05 19:04:36 [/ectest/html/products/list.php] PAGE_DISPLAY_TIME_LOG [2.54sec] from 122.212.39.18
+2015/10/05 19:04:38 [/ectest/html/products/detail.php] PAGE_DISPLAY_TIME_LOG [2.99sec] from 122.212.39.18
+2015/10/05 19:04:46 [/ectest/html/products/list.php] PAGE_DISPLAY_TIME_LOG [2.04sec] from 122.212.39.18
+2015/10/06 18:06:22 [/ectest/html/mypage/refusal.php] PAGE_DISPLAY_TIME_LOG [2.20sec] from 122.212.39.18
+2015/10/06 18:16:04 [/ectest/html/index.php] PAGE_DISPLAY_TIME_LOG [3.05sec] from 122.212.39.18
+2015/10/06 18:59:29 [/ectest/html/products/detail.php] PAGE_DISPLAY_TIME_LOG [2.23sec] from 122.212.39.18
+2015/10/06 19:38:50 [/ectest/html/shopping/confirm.php] order complete. order_id=2 from 122.212.39.18
+2015/10/06 19:38:50 [/ectest/html/shopping/confirm.php] PAGE_DISPLAY_TIME_LOG [3.00sec] from 122.212.39.18
+2015/10/06 19:49:32 [/ectest/html/cart/index.php] PAGE_DISPLAY_TIME_LOG [2.85sec] from 122.212.39.18
+2015/10/06 19:53:56 [/ectest/html/shopping/confirm.php] order complete. order_id=3 from 122.212.39.18
+2015/10/06 19:53:57 [/ectest/html/shopping/confirm.php] PAGE_DISPLAY_TIME_LOG [2.78sec] from 122.212.39.18
+2015/10/06 20:25:31 [/ectest/html/mypage/index.php] PAGE_DISPLAY_TIME_LOG [2.06sec] from 122.212.39.18
+2015/10/07 11:01:41 [/ectest/html/index.php] PAGE_DISPLAY_TIME_LOG [2.33sec] from 122.212.39.18
+2015/10/07 11:09:01 [/ectest/html/products/list.php] PAGE_DISPLAY_TIME_LOG [2.14sec] from 122.212.39.18
+2015/10/07 12:01:44 [/ectest/html/index.php] PAGE_DISPLAY_TIME_LOG [2.46sec] from 122.212.39.18
+2015/10/07 12:12:03 [/ectest/html/products/detail.php] PAGE_DISPLAY_TIME_LOG [2.32sec] from 122.212.39.18
+2015/10/07 12:12:10 [/ectest/html/products/detail.php] PAGE_DISPLAY_TIME_LOG [3.30sec] from 122.212.39.18
+2015/10/07 12:12:12 [/ectest/html/products/detail.php] PAGE_DISPLAY_TIME_LOG [2.00sec] from 122.212.39.18
+2015/10/07 12:26:14 [/ectest/html/products/detail.php] PAGE_DISPLAY_TIME_LOG [2.29sec] from 122.212.39.18
+2015/10/07 12:27:51 [/ectest/html/products/detail.php] PAGE_DISPLAY_TIME_LOG [2.05sec] from 122.212.39.18
+2015/10/07 12:36:46 [/ectest/html/products/detail.php] PAGE_DISPLAY_TIME_LOG [2.37sec] from 122.212.39.18
+2015/10/07 13:21:32 [/ectest/html/mypage/history.php] PAGE_DISPLAY_TIME_LOG [2.22sec] from 122.212.39.18
+2015/10/07 13:32:26 [/ectest/html/products/detail.php] PAGE_DISPLAY_TIME_LOG [2.46sec] from 122.212.39.18
+2015/10/07 15:26:18 [/ectest/html/products/detail.php] PAGE_DISPLAY_TIME_LOG [2.54sec] from 122.212.39.18
+2015/10/07 15:26:21 [/ectest/html/cart/index.php] PAGE_DISPLAY_TIME_LOG [2.42sec] from 122.212.39.18
+2015/10/07 17:49:52 [/ectest/html/products/list.php] PAGE_DISPLAY_TIME_LOG [2.19sec] from 122.212.39.18
+2015/10/07 17:52:30 [/ectest/html/products/list.php] PAGE_DISPLAY_TIME_LOG [2.75sec] from 122.212.39.18
+2015/10/07 17:53:28 [/ectest/html/index.php] PAGE_DISPLAY_TIME_LOG [2.08sec] from 122.212.39.18
+2015/10/07 19:09:58 [/ectest/html/products/list.php] PAGE_DISPLAY_TIME_LOG [2.91sec] from 122.212.39.18
+2015/10/07 20:44:47 [/ectest/html/products/detail.php] PAGE_DISPLAY_TIME_LOG [2.24sec] from 49.239.64.214
+2015/10/07 20:44:48 [/ectest/html/shopping/payment.php] PAGE_DISPLAY_TIME_LOG [2.54sec] from 49.239.64.214
+2015/10/08 13:16:48 [/ectest/html/products/detail.php] PAGE_DISPLAY_TIME_LOG [2.29sec] from 122.212.39.18
+2015/10/08 13:23:47 [/ectest/html/mypage/index.php] PAGE_DISPLAY_TIME_LOG [2.21sec] from 122.212.39.18
+2015/10/08 13:30:24 [/ectest/html/products/list.php] PAGE_DISPLAY_TIME_LOG [2.31sec] from 122.212.39.18
+2015/10/08 18:03:56 [/ectest/html/cart/index.php] PAGE_DISPLAY_TIME_LOG [3.67sec] from 122.212.39.18
+2015/10/08 18:27:18 [/ectest/html/products/list.php] PAGE_DISPLAY_TIME_LOG [2.01sec] from 122.212.39.18
+2015/10/08 18:52:58 [/ectest/html/products/list.php] PAGE_DISPLAY_TIME_LOG [3.54sec] from 122.212.39.18
+2015/10/08 18:53:37 [/ectest/html/products/list.php] PAGE_DISPLAY_TIME_LOG [2.10sec] from 122.212.39.18
+2015/10/08 19:04:45 [/ectest/html/products/list.php] PAGE_DISPLAY_TIME_LOG [3.19sec] from 122.212.39.18
+2015/10/08 19:15:35 [/ectest/html/products/detail.php] PAGE_DISPLAY_TIME_LOG [2.26sec] from 122.212.39.18
+2015/10/13 16:45:08 [/ectest/html/products/list.php] PAGE_DISPLAY_TIME_LOG [2.23sec] from 122.212.39.18
+2015/10/13 18:28:41 [/ectest/html/products/list.php] PAGE_DISPLAY_TIME_LOG [2.06sec] from 122.212.39.18
+2015/10/13 19:11:23 [/ectest/html/products/list.php] PAGE_DISPLAY_TIME_LOG [2.66sec] from 122.212.39.18
+2015/10/13 19:36:50 [/ectest/html/cart/index.php] PAGE_DISPLAY_TIME_LOG [2.00sec] from 122.212.39.18
+2015/10/13 19:38:05 [/ectest/html/shopping/deliv.php] PAGE_DISPLAY_TIME_LOG [2.67sec] from 122.212.39.18
+2015/10/13 19:38:07 [/ectest/html/shopping/payment.php] PAGE_DISPLAY_TIME_LOG [2.40sec] from 122.212.39.18
+2015/10/13 19:39:34 [/ectest/html/shopping/payment.php] PAGE_DISPLAY_TIME_LOG [4.41sec] from 122.212.39.18
+2015/10/13 19:48:26 [/ectest/html/index.php] PAGE_DISPLAY_TIME_LOG [2.69sec] from 122.212.39.18
+2015/10/13 19:48:54 [/ectest/html/products/list.php] PAGE_DISPLAY_TIME_LOG [2.02sec] from 122.212.39.18
+2015/10/13 19:49:40 [/ectest/html/shopping/payment.php] PAGE_DISPLAY_TIME_LOG [2.68sec] from 122.212.39.18
+2015/10/13 19:49:44 [/ectest/html/shopping/confirm.php] PAGE_DISPLAY_TIME_LOG [3.14sec] from 122.212.39.18
+2015/10/13 19:49:52 [/ectest/html/shopping/confirm.php] order complete. order_id=4 from 122.212.39.18
+2015/10/13 19:49:53 [/ectest/html/shopping/confirm.php] PAGE_DISPLAY_TIME_LOG [4.80sec] from 122.212.39.18
+2015/10/13 19:50:06 [/ectest/html/index.php] PAGE_DISPLAY_TIME_LOG [3.87sec] from 122.212.39.18
+2015/10/13 19:50:18 [/ectest/html/mypage/index.php] PAGE_DISPLAY_TIME_LOG [2.09sec] from 122.212.39.18
+2015/10/13 19:57:45 [/ectest/html/mypage/index.php] PAGE_DISPLAY_TIME_LOG [2.10sec] from 122.212.39.18
+2015/10/13 19:57:58 [/ectest/html/mypage/download.php] PAGE_DISPLAY_TIME_LOG [4.78sec] from 122.212.39.18
+2015/10/13 20:08:16 [/ectest/html/products/list.php] PAGE_DISPLAY_TIME_LOG [3.84sec] from 122.212.39.18
+2015/10/13 20:09:08 [/ectest/html/cart/index.php] PAGE_DISPLAY_TIME_LOG [2.17sec] from 122.212.39.18
+2015/10/13 20:09:10 [/ectest/html/cart/index.php] PAGE_DISPLAY_TIME_LOG [3.15sec] from 122.212.39.18
+2015/10/13 20:09:45 [/ectest/html/shopping/confirm.php] order complete. order_id=5 from 122.212.39.18
+2015/10/13 20:09:46 [/ectest/html/shopping/confirm.php] PAGE_DISPLAY_TIME_LOG [7.95sec] from 122.212.39.18
+2015/10/13 20:10:56 [/ectest/html/mypage/history.php] PAGE_DISPLAY_TIME_LOG [2.48sec] from 122.212.39.18
+2015/10/13 20:11:04 [/ectest/html/mypage/download.php] PAGE_DISPLAY_TIME_LOG [4.51sec] from 122.212.39.18
+2015/10/13 20:15:24 [/ectest/html/mypage/history.php] PAGE_DISPLAY_TIME_LOG [2.37sec] from 122.212.39.18
+2015/10/14 10:41:17 [/ectest/html/cart/index.php] PAGE_DISPLAY_TIME_LOG [2.24sec] from 122.212.39.18
+2015/10/14 10:41:27 [/ectest/html/products/detail.php] PAGE_DISPLAY_TIME_LOG [2.02sec] from 122.212.39.18
+2015/10/14 10:42:09 [/ectest/html/products/list.php] PAGE_DISPLAY_TIME_LOG [2.24sec] from 122.212.39.18
+2015/10/14 10:44:39 [/ectest/html/shopping/confirm.php] order complete. order_id=6 from 122.212.39.18
+2015/10/14 12:28:54 [/ectest/html/index.php] order cancel.(time expire) order_id=6 from 122.212.39.18
+2015/10/14 12:28:55 [/ectest/html/index.php] PAGE_DISPLAY_TIME_LOG [2.70sec] from 122.212.39.18
+2015/10/14 12:29:45 [/ectest/html/shopping/confirm.php] order complete. order_id=7 from 122.212.39.18
+2015/10/14 12:29:46 [/ectest/html/shopping/confirm.php] PAGE_DISPLAY_TIME_LOG [3.60sec] from 122.212.39.18
+2015/10/14 12:30:53 [/ectest/html/mypage/download.php] PAGE_DISPLAY_TIME_LOG [4.54sec] from 122.212.39.18
+2015/10/14 12:34:45 [/ectest/html/mypage/index.php] PAGE_DISPLAY_TIME_LOG [3.18sec] from 122.212.39.18
+2015/10/14 14:24:01 [/ectest/html/products/list.php] PAGE_DISPLAY_TIME_LOG [2.68sec] from 120.51.201.94
+2015/10/14 14:24:02 [/ectest/html/products/list.php] PAGE_DISPLAY_TIME_LOG [2.79sec] from 120.51.201.94
+2015/10/14 14:24:04 [/ectest/html/products/list.php] PAGE_DISPLAY_TIME_LOG [2.50sec] from 120.51.201.94
+2015/10/14 14:24:25 [/ectest/html/products/list.php] PAGE_DISPLAY_TIME_LOG [3.82sec] from 120.51.201.94
+2015/10/14 14:24:37 [/ectest/html/products/list.php] PAGE_DISPLAY_TIME_LOG [4.24sec] from 120.51.201.94
+2015/10/14 15:18:01 [/ectest/html/index.php] PAGE_DISPLAY_TIME_LOG [2.16sec] from 122.212.39.18
+2015/10/14 19:44:37 [/ectest/html/index.php] PAGE_DISPLAY_TIME_LOG [2.27sec] from 122.212.39.18
+2015/10/14 20:05:19 [/ectest/html/shopping/confirm.php] order complete. order_id=8 from 122.212.39.18
+2015/10/14 20:10:26 [/ectest/html/cart/index.php] PAGE_DISPLAY_TIME_LOG [2.70sec] from 122.212.39.18
+2015/10/14 20:10:30 [/ectest/html/cart/index.php] PAGE_DISPLAY_TIME_LOG [3.03sec] from 122.212.39.18
+2015/10/15 10:20:59 [/ectest/html/products/list.php] order cancel.(time expire) order_id=8 from 122.212.39.18
+2015/10/15 11:49:12 [/ectest/html/cart/index.php] PAGE_DISPLAY_TIME_LOG [2.01sec] from 122.212.39.18
+2015/10/15 11:50:10 [/ectest/html/products/detail.php] PAGE_DISPLAY_TIME_LOG [2.22sec] from 122.212.39.18
+2015/10/15 12:03:13 [/ectest/html/index.php] PAGE_DISPLAY_TIME_LOG [3.01sec] from 122.212.39.18
+2015/10/15 14:56:59 [/ectest/html/products/detail.php] PAGE_DISPLAY_TIME_LOG [2.77sec] from 122.212.39.18
+2015/10/15 15:22:33 [/ectest/html/mypage/history.php] PAGE_DISPLAY_TIME_LOG [3.35sec] from 122.212.39.18
+2015/10/15 15:32:29 [/ectest/html/mypage/history.php] PAGE_DISPLAY_TIME_LOG [2.04sec] from 122.212.39.18
+2015/10/15 15:34:38 [/ectest/html/mypage/history.php] PAGE_DISPLAY_TIME_LOG [3.16sec] from 122.212.39.18
+2015/10/15 16:31:22 [/ectest/html/cart/index.php] PAGE_DISPLAY_TIME_LOG [2.23sec] from 122.212.39.18
+2015/10/15 17:09:37 [/ectest/html/shopping/confirm.php] order complete. order_id=9 from 122.212.39.18
+2015/10/15 17:09:38 [/ectest/html/shopping/confirm.php] PAGE_DISPLAY_TIME_LOG [3.26sec] from 122.212.39.18
+2015/10/16 15:30:05 [/ectest/html/index.php] PAGE_DISPLAY_TIME_LOG [3.46sec] from 182.250.241.70
+2015/10/16 15:30:14 [/ectest/html/index.php] PAGE_DISPLAY_TIME_LOG [2.08sec] from 182.250.241.70
+2015/10/16 15:30:50 [/ectest/html/products/list.php] PAGE_DISPLAY_TIME_LOG [3.13sec] from 182.250.241.70
+2015/10/16 18:44:37 [/ectest/html/mypage/history.php] PAGE_DISPLAY_TIME_LOG [2.38sec] from 122.212.39.18
+2015/10/16 20:23:02 [/ectest/html/index.php] PAGE_DISPLAY_TIME_LOG [2.16sec] from 122.212.39.18
+2015/10/16 20:23:12 [/ectest/html/cart/index.php] PAGE_DISPLAY_TIME_LOG [3.27sec] from 122.212.39.18
+2015/10/16 20:23:18 [/ectest/html/index.php] PAGE_DISPLAY_TIME_LOG [2.20sec] from 122.212.39.18
+2015/10/17 19:12:31 [/ectest/html/index.php] PAGE_DISPLAY_TIME_LOG [3.54sec] from 49.239.78.110
+2015/10/19 12:56:16 [/ectest/html/index.php] PAGE_DISPLAY_TIME_LOG [2.23sec] from 122.212.39.18
+2015/10/19 12:56:28 [/ectest/html/products/detail.php] PAGE_DISPLAY_TIME_LOG [2.50sec] from 122.212.39.18
+2015/10/27 14:43:23 [/ectest/html/index.php] PAGE_DISPLAY_TIME_LOG [2.34sec] from 122.212.39.18
+2015/10/29 13:05:21 [/ectest/html/index.php] PAGE_DISPLAY_TIME_LOG [2.04sec] from 122.212.39.18
+2015/10/29 15:11:52 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=57d834fb715925fedde4bbb275dbc105 from 122.212.39.18
+2015/10/29 15:12:08 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=57d834fb715925fedde4bbb275dbc105 from 122.212.39.18
+2015/10/29 15:13:19 [/ectest/html/products/detail.php] PAGE_DISPLAY_TIME_LOG [2.79sec] from 122.212.39.18
+2015/10/29 16:11:35 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=57d834fb715925fedde4bbb275dbc105 from 122.212.39.18
+2015/10/29 16:36:44 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=57d834fb715925fedde4bbb275dbc105 from 122.212.39.18
+2015/10/29 16:37:30 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=57d834fb715925fedde4bbb275dbc105 from 122.212.39.18
+2015/10/29 16:43:37 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=57d834fb715925fedde4bbb275dbc105 from 122.212.39.18
+2015/10/29 16:43:45 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=57d834fb715925fedde4bbb275dbc105 from 122.212.39.18
+2015/10/29 16:44:00 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=57d834fb715925fedde4bbb275dbc105 from 122.212.39.18
+2015/10/29 16:48:45 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=57d834fb715925fedde4bbb275dbc105 from 122.212.39.18
+2015/10/29 16:49:23 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=57d834fb715925fedde4bbb275dbc105 from 122.212.39.18
+2015/10/29 16:51:50 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=57d834fb715925fedde4bbb275dbc105 from 122.212.39.18
+2015/10/29 16:52:00 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=57d834fb715925fedde4bbb275dbc105 from 122.212.39.18
+2015/10/29 17:06:46 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=57d834fb715925fedde4bbb275dbc105 from 122.212.39.18
+2015/10/29 17:06:57 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=57d834fb715925fedde4bbb275dbc105 from 122.212.39.18
+2015/10/29 17:12:12 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=57d834fb715925fedde4bbb275dbc105 from 122.212.39.18
+2015/10/29 17:56:30 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=36a23ae42d567eeaafeccd5adf8bb191 from 122.212.39.18
+2015/10/29 18:04:22 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=36a23ae42d567eeaafeccd5adf8bb191 from 122.212.39.18
+2015/10/29 18:04:41 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=36a23ae42d567eeaafeccd5adf8bb191 from 122.212.39.18
+2015/10/29 18:04:46 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=36a23ae42d567eeaafeccd5adf8bb191 from 122.212.39.18
+2015/10/29 18:06:29 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=36a23ae42d567eeaafeccd5adf8bb191 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/10/29 18:10:24 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=36a23ae42d567eeaafeccd5adf8bb191 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/10/29 18:14:16 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=36a23ae42d567eeaafeccd5adf8bb191 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/10/29 18:16:05 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=36a23ae42d567eeaafeccd5adf8bb191 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/10/29 18:18:49 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=36a23ae42d567eeaafeccd5adf8bb191 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/10/29 18:19:44 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=36a23ae42d567eeaafeccd5adf8bb191 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/10/29 18:25:00 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=36a23ae42d567eeaafeccd5adf8bb191 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/10/29 18:52:23 [/ectest/html/products/list.php] PAGE_DISPLAY_TIME_LOG [3.84sec] from 122.212.39.18
+customer_id = 1
+(): LC_Page->__destruct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/LC_Page.php(195): GC_Utils::gfPrintLog
+2015/11/02 19:23:12 [/ectest/html/shopping/confirm.php] order complete. order_id=10 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/shopping/confirm.php(29): LC_Page_Shopping_Confirm_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/shopping/LC_Page_Shopping_Confirm_Ex.php(54): LC_Page_Shopping_Confirm->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/shopping/LC_Page_Shopping_Confirm.php(63): LC_Page_Shopping_Confirm->action
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/shopping/LC_Page_Shopping_Confirm.php(161): SC_Helper_Purchase->completeOrder
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/helper/SC_Helper_Purchase.php(100): GC_Utils::gfPrintLog
+2015/11/02 22:44:53 [/ectest/html/products/detail.php] order cancel.(time expire) order_id=10 from 118.21.153.109
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/products/detail.php(29): LC_Page_Products_Detail_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/products/LC_Page_Products_Detail_Ex.php(54): LC_Page_Products_Detail->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/products/LC_Page_Products_Detail.php(159): LC_Page_Products_Detail->action
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/products/LC_Page_Products_Detail.php(172): SC_Helper_Purchase->cancelPendingOrder
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/helper/SC_Helper_Purchase.php(1364): SC_Helper_Purchase->checkDbAllPendingOrder
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/helper/SC_Helper_Purchase.php(1386): GC_Utils::gfPrintLog
+2015/11/17 15:56:41 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 15:56:50 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 16:48:44 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 17:13:28 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 17:13:52 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 17:14:07 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 17:14:14 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 17:16:17 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 17:19:31 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 17:24:12 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 17:25:09 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 17:26:40 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 17:27:36 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 17:28:09 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 17:35:46 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 17:36:52 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 17:38:17 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 17:39:00 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 17:39:11 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 17:40:45 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 17:40:52 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 17:42:06 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 17:42:52 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 17:48:17 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 17:48:56 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 17:49:45 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 17:50:01 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 17:51:47 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 17:51:54 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 18:02:14 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 18:08:46 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 18:12:43 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 18:14:38 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 18:18:46 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 18:19:52 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 18:21:25 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 18:26:39 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 18:29:42 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 18:29:51 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 18:30:27 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 18:32:08 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 18:32:52 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 18:34:46 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 18:39:29 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 18:41:07 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 18:41:28 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 18:41:35 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 18:42:09 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 18:43:48 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 18:43:54 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 18:44:39 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 18:44:39 [/ectest/html/resize_image.php] invalid access :resize_image.php image=10051504_561212f53d403.jpg alt= from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/resize_image.php(29): LC_Page_ResizeImage_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/LC_Page_ResizeImage_Ex.php(54): LC_Page_ResizeImage->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/LC_Page_ResizeImage.php(54): LC_Page_ResizeImage->action
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/LC_Page_ResizeImage.php(76): GC_Utils::gfPrintLog
+2015/11/17 18:44:39 [/ectest/html/resize_image.php] invalid access :resize_image.php image=09151109_55f77dea166c4.jpg alt= from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/resize_image.php(29): LC_Page_ResizeImage_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/LC_Page_ResizeImage_Ex.php(54): LC_Page_ResizeImage->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/LC_Page_ResizeImage.php(54): LC_Page_ResizeImage->action
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/LC_Page_ResizeImage.php(76): GC_Utils::gfPrintLog
+2015/11/17 18:44:39 [/ectest/html/resize_image.php] invalid access :resize_image.php image=10051500_56121209b3de0.jpg alt= from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/resize_image.php(29): LC_Page_ResizeImage_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/LC_Page_ResizeImage_Ex.php(54): LC_Page_ResizeImage->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/LC_Page_ResizeImage.php(54): LC_Page_ResizeImage->action
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/LC_Page_ResizeImage.php(76): GC_Utils::gfPrintLog
+2015/11/17 18:44:39 [/ectest/html/resize_image.php] invalid access :resize_image.php image=10141226_561dcb6b4c40a.png alt= from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/resize_image.php(29): LC_Page_ResizeImage_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/LC_Page_ResizeImage_Ex.php(54): LC_Page_ResizeImage->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/LC_Page_ResizeImage.php(54): LC_Page_ResizeImage->action
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/LC_Page_ResizeImage.php(76): GC_Utils::gfPrintLog
+2015/11/17 18:44:39 [/ectest/html/resize_image.php] invalid access :resize_image.php image=10051700_56122e1f03d52.jpg alt= from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/resize_image.php(29): LC_Page_ResizeImage_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/LC_Page_ResizeImage_Ex.php(54): LC_Page_ResizeImage->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/LC_Page_ResizeImage.php(54): LC_Page_ResizeImage->action
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/LC_Page_ResizeImage.php(76): GC_Utils::gfPrintLog
+2015/11/17 18:44:39 [/ectest/html/resize_image.php] invalid access :resize_image.php image=10051718_5612326c7d3d8.jpg alt= from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/resize_image.php(29): LC_Page_ResizeImage_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/LC_Page_ResizeImage_Ex.php(54): LC_Page_ResizeImage->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/LC_Page_ResizeImage.php(54): LC_Page_ResizeImage->action
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/LC_Page_ResizeImage.php(76): GC_Utils::gfPrintLog
+2015/11/17 18:44:40 [/ectest/html/resize_image.php] invalid access :resize_image.php image=10051702_56122ea4aed01.jpg alt= from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/resize_image.php(29): LC_Page_ResizeImage_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/LC_Page_ResizeImage_Ex.php(54): LC_Page_ResizeImage->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/LC_Page_ResizeImage.php(54): LC_Page_ResizeImage->action
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/LC_Page_ResizeImage.php(76): GC_Utils::gfPrintLog
+2015/11/17 18:44:40 [/ectest/html/resize_image.php] invalid access :resize_image.php image=10071211_56148d5178ec8.jpg alt= from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/resize_image.php(29): LC_Page_ResizeImage_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/LC_Page_ResizeImage_Ex.php(54): LC_Page_ResizeImage->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/LC_Page_ResizeImage.php(54): LC_Page_ResizeImage->action
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/LC_Page_ResizeImage.php(76): GC_Utils::gfPrintLog
+2015/11/17 18:44:40 [/ectest/html/resize_image.php] invalid access :resize_image.php image=10051656_56122d4492876.jpg alt= from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/resize_image.php(29): LC_Page_ResizeImage_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/LC_Page_ResizeImage_Ex.php(54): LC_Page_ResizeImage->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/LC_Page_ResizeImage.php(54): LC_Page_ResizeImage->action
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/LC_Page_ResizeImage.php(76): GC_Utils::gfPrintLog
+2015/11/17 18:45:10 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 19:06:07 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 19:07:22 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 19:10:31 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 19:10:48 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 19:11:33 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 19:13:45 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 19:15:34 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 19:22:47 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 19:23:49 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 19:26:14 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 19:26:44 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 19:27:10 [/ectest/html/preview/index.php] access : user=admin auth=0 sid=6833c936605ec32e915cd612e1ab9688 from 122.212.39.18
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/preview/index.php(29): LC_Page_Preview_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/preview/LC_Page_Preview_Ex.php(54): LC_Page_Preview->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/preview/LC_Page_Preview.php(55): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/17 20:03:22 [/ectest/html/products/detail.php] access : user=admin auth=0 sid=c317eeb42e0e475aa2ed0d1f4366c1db from 120.51.201.94
+customer_id = 
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/products/detail.php(29): LC_Page_Products_Detail_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/products/LC_Page_Products_Detail_Ex.php(54): LC_Page_Products_Detail->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/products/LC_Page_Products_Detail.php(159): LC_Page_Products_Detail->action
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/products/LC_Page_Products_Detail.php(190): LC_Page_Products_Detail->lfCheckProductId
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/products/LC_Page_Products_Detail.php(326): SC_Session->__construct
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/SC_Session.php(61): GC_Utils::gfPrintLog
+2015/11/18 12:03:16 [/ectest/html/shopping/confirm.php] order complete. order_id=11 from 120.51.201.94
+customer_id = 3
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/shopping/confirm.php(29): LC_Page_Shopping_Confirm_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/shopping/LC_Page_Shopping_Confirm_Ex.php(54): LC_Page_Shopping_Confirm->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/shopping/LC_Page_Shopping_Confirm.php(63): LC_Page_Shopping_Confirm->action
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/shopping/LC_Page_Shopping_Confirm.php(166): SC_Helper_Purchase->completeOrder
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/helper/SC_Helper_Purchase.php(100): GC_Utils::gfPrintLog
+2015/11/18 12:12:49 [/ectest/html/shopping/confirm.php] order complete. order_id=12 from 120.51.201.94
+customer_id = 3
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/shopping/confirm.php(29): LC_Page_Shopping_Confirm_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/shopping/LC_Page_Shopping_Confirm_Ex.php(54): LC_Page_Shopping_Confirm->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/shopping/LC_Page_Shopping_Confirm.php(63): LC_Page_Shopping_Confirm->action
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/shopping/LC_Page_Shopping_Confirm.php(166): SC_Helper_Purchase->completeOrder
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/helper/SC_Helper_Purchase.php(100): GC_Utils::gfPrintLog
+2015/11/18 16:43:09 [/ectest/html/shopping/confirm.php] order complete. order_id=13 from 122.212.39.18
+customer_id = 1
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/shopping/confirm.php(29): LC_Page_Shopping_Confirm_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/shopping/LC_Page_Shopping_Confirm_Ex.php(54): LC_Page_Shopping_Confirm->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/shopping/LC_Page_Shopping_Confirm.php(63): LC_Page_Shopping_Confirm->action
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/shopping/LC_Page_Shopping_Confirm.php(166): SC_Helper_Purchase->completeOrder
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/helper/SC_Helper_Purchase.php(100): GC_Utils::gfPrintLog
+2015/11/18 18:00:07 [/ectest/html/shopping/confirm.php] order complete. order_id=14 from 122.212.39.18
+customer_id = 1
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/shopping/confirm.php(29): LC_Page_Shopping_Confirm_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/shopping/LC_Page_Shopping_Confirm_Ex.php(54): LC_Page_Shopping_Confirm->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/shopping/LC_Page_Shopping_Confirm.php(63): LC_Page_Shopping_Confirm->action
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/shopping/LC_Page_Shopping_Confirm.php(161): SC_Helper_Purchase->completeOrder
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/helper/SC_Helper_Purchase.php(100): GC_Utils::gfPrintLog
+2015/11/18 18:17:44 [/ectest/html/index.php] order cancel.(time expire) order_id=14 from 122.212.39.18
+customer_id = 1
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/index.php(28): LC_Page_Index_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/LC_Page_Index_Ex.php(54): LC_Page_Index->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/LC_Page_Index.php(53): LC_Page_Index->action
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/LC_Page_Index.php(66): SC_Helper_Purchase->cancelPendingOrder
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/helper/SC_Helper_Purchase.php(1364): SC_Helper_Purchase->checkDbAllPendingOrder
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/helper/SC_Helper_Purchase.php(1386): GC_Utils::gfPrintLog
+2015/11/19 19:29:46 [/ectest/html/shopping/confirm.php] order complete. order_id=15 from 120.51.201.94
+customer_id = 3
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/html/shopping/confirm.php(29): LC_Page_Shopping_Confirm_Ex->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class_extends/page_extends/shopping/LC_Page_Shopping_Confirm_Ex.php(54): LC_Page_Shopping_Confirm->process
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/shopping/LC_Page_Shopping_Confirm.php(63): LC_Page_Shopping_Confirm->action
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/pages/shopping/LC_Page_Shopping_Confirm.php(166): SC_Helper_Purchase->completeOrder
+/home/vuser/3/8/0211283/www.sbadi.jp/ectest/data/class/helper/SC_Helper_Purchase.php(100): GC_Utils::gfPrintLog
